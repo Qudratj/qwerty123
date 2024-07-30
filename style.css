@@ -1,0 +1,43 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgba(42, 93, 90, 1);
+}
+
+.d{
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 77px;
+    background-color: rgba(49, 19, 19, 1);
+    display: inline;
+    padding-top: 24px;
+    padding-left: 28px;
+    padding-bottom: 23px;
+    padding-right: 17px;
+    color: white;
+}
+
+.title-wrapper{
+    text-align: center;
+    padding: 22px;
+}
+
+.w{
+    width: 1000px;
+    height: 638px;
+    padding-top: 193px;
+    padding-left: 220px;
+    gap: 0px;
+    border: 10px solid rgba(255, 6, 6, 1);
+    opacity: 0px;
+    width: Hug (896px)px;
+    height: Hug (548px)px;
+    padding-top: 238px;
+    padding-left: 272px;
+    gap: 30px;
+    opacity: 0px;
+}
